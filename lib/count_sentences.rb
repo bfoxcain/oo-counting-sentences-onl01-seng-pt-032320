@@ -22,7 +22,7 @@ class String
     if self.end_with?("!")
       return true
     else
-      return with false
+      return false
     end
   end
 
